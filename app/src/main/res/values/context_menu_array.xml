@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Labels for context menu -->
+    <string-array
+        name="context_menu_array">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+</resources>

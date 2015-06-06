@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Personal Library Catalogue</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Labels -->
+    <string name="author">Author*</string>
+    <string name="title">Title*</string>
+    <string name="description">Description</string>
+    <string name="year">Year</string>
+    <string name="isbn">ISBN</string>
+    <string name="cover">Cover</string>
+    <string name="warning">There are no books in library</string>
+
+    <!-- Labels for buttons -->
+    <string name="apply_button">Ok</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="set_cover_button">Change cover</string>
+    <string name="title_activity_books_list">BooksListActivity</string>
+    <string name="add_book_button">Add Book</string>
+    <string name="title_activity_add_book">AddBookActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Labels for options menu -->
+    <string name="add_book_action">Add book</string>
+
+    <!-- Labels for context menu -->
+    <string name="Menu">Menu</string>
+    <string name="edit_book_action">Edit</string>
+    <string name="delete_book_action">Delete</string>
+
+</resources>
